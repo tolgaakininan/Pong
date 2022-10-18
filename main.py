@@ -26,7 +26,6 @@ ekran.onkeypress(paddle2.movedown, "s")
 # Listening over
 # Game Starts
 while game_on:
-    ekran.
     time.sleep(0.028)
     ekran.update()
     gameBall.move()
